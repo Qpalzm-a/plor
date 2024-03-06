@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plor6", "plor6\plor6.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plor7", "plor7\plor7.csproj", "{F0A38649-B92C-4770-BCAD-BA7D5CB51E8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plor8", "plor8\plor8.csproj", "{7C91C1F7-69C3-4537-8272-0A6213A864A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plor8", "plor8\plor8.csproj", "{7C91C1F7-69C3-4537-8272-0A6213A864A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plor9", "plor9\plor9.csproj", "{89DF9FE6-DFF5-467F-9017-CB21218F8FF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7C91C1F7-69C3-4537-8272-0A6213A864A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C91C1F7-69C3-4537-8272-0A6213A864A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C91C1F7-69C3-4537-8272-0A6213A864A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DF9FE6-DFF5-467F-9017-CB21218F8FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DF9FE6-DFF5-467F-9017-CB21218F8FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DF9FE6-DFF5-467F-9017-CB21218F8FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DF9FE6-DFF5-467F-9017-CB21218F8FF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
